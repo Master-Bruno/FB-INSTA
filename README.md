@@ -2,9 +2,9 @@
 Facebook And Instagram Hacking Tool
 
 
-# Instagram Account Cracking Tool
+# Instagram/Facebook Account Cracking Tool
  
-This is a tool that will help you crack Instagram account very quickly.  You also need a cookie to run this tool.  You will understand how to get it when you run the tool
+This is a tool that will help you crack Instagram/Facebook account very quickly.
 
 #
 
