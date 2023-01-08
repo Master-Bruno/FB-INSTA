@@ -18,16 +18,13 @@ This is a tool that will help you crack Instagram/Facebook account very quickly.
 
 + Stable Connection
 
-#  Cracking Method
-
-+ Multi Pass Cracking Tool,This is a Any Random Accounts Passwords Finder
 
 
 
 # Tool Features
 
-+ Random Accounts Cracker
-+ Without Wordlist
++ Facebook, Instagram Accounts Cracker
++ Wordlist
 + Proxy Already Added
 + Fast Cracking
 + Usernames File Maker
